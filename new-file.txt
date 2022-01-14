@@ -1,4 +1,2 @@
 Some new file added
 added some new line later
-
-I added some error message which needs to be deleted by commit reverting 
